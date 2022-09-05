@@ -81,7 +81,7 @@ const Navbar = () => {
           <Logo>TEODORA.</Logo>
         </Center>
         <Right>
-          <MenuItem>REGISTER</MenuItem>
+          <MenuItem Link="/src/pages/Register.jsx">REGISTER</MenuItem>
           <MenuItem>SIGN IN</MenuItem>
           <MenuItem>
             <Badge badgeContent={4} color="primary">
